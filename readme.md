@@ -1,6 +1,6 @@
 ## Capstone 2 Demo App Overview:
 
-### Application Name: Demo-App
+### E-Commerece API: Demo-App
 
 #### User Credentials:
 
@@ -12,7 +12,7 @@
   - email: userone@gmail.com
   - password: user1234
 
-## Features by Student-1
+## Features
 
 ### User Resources:
 - User registration (with Email Confirmation/Notification)
@@ -23,8 +23,13 @@
 
 ### Product Resources:
 - Create Product (Admin only)
-
-## Features by Student-2
+- Get All Products
+- Get All Active Products
+- Get Product by ID
+- Search Products by Name
+- Search Products by Price Range
+- Update Product Information (Admin only)
+- Activate Product (Admin only)
 
 ### Cart Resources:
 - Get User's Cart
